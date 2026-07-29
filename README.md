@@ -94,20 +94,26 @@ A repository where I regularly solve coding problems, practice algorithms, and d
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" alt="Node.js & Express" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/3B82F6" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/passport" height="48" alt="Passport.js" />
+  <img src="https://cdn.simpleicons.org/google" height="48" alt="Google OAuth" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://raw.githubusercontent.com/thunderclient/thunder-client-support/main/images/thunder-icon.png"
+       height="48"
+       alt="Thunder Client" />
 </p>
 
 ---
