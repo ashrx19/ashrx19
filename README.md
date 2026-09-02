@@ -37,21 +37,6 @@ Current flagship MERN project focused on building a modern online shopping exper
 
 ---
 
-### 🏠 Elderly Care Management System
-
-A complete management platform designed to simplify elderly care administration.
-
-* Resident Management
-* Guardian Management
-* Health Monitoring
-* Food Preferences
-* Reports & Analytics
-* Database Integration
-
-🔗 https://github.com/ashrx19/Elders-app
-
----
-
 ### 🍳 Food Recipe Finder
 
 A web application that helps users discover and explore different recipes through a simple and interactive interface.
@@ -64,6 +49,21 @@ A web application that helps users discover and explore different recipes throug
 * User-Friendly Interface
 
 🔗 https://github.com/ashrx19/FOOD-RECIPE-FINDER
+
+---
+
+### 🏠 Elderly Care Management System
+
+A complete management platform designed to simplify elderly care administration.
+
+* Resident Management
+* Guardian Management
+* Health Monitoring
+* Food Preferences
+* Reports & Analytics
+* Database Integration
+
+🔗 https://github.com/ashrx19/Elders-app
 
 ---
 
