@@ -13,7 +13,6 @@
 * 🎓 Computer Science Student
 * 💻 Full Stack Developer
 * ⚛️ MERN Enthusiast
-* 🌱 Currently strengthening my MERN and Backend Development skills
 * 🛒 Working on O2 Herbal E-Commerce Platform
 * 🏠 Developed an Elderly Care Management System
 * 🧩 Regularly solving coding problems and pushing solutions to GitHub
@@ -53,32 +52,49 @@ A complete management platform designed to simplify elderly care administration.
 
 ---
 
-### ⚛️ React Progress
+### 🍳 Food Recipe Finder
 
-Documenting my React learning journey through practical implementations and mini-projects.
+A web application that helps users discover and explore different recipes through a simple and interactive interface.
 
-* Components
-* Props
-* State Management
-* Hooks
-* Routing
+* Recipe Search
 * API Integration
+* Dynamic Content
+* Search & Filtering
+* Responsive Design
+* User-Friendly Interface
+
+🔗 https://github.com/ashrx19/FOOD-RECIPE-FINDER
+
+---
+
+## 📚 My Learning Repositories
+
+Documenting my continuous learning journey through hands-on practice, mini-projects, backend development, and problem-solving.
+
+### ⚛️ React | 🟢 Node.js | 🚂 Express.js
+
+* React Components, Props, State & Hooks
+* React Routing & API Integration
+* Node.js Fundamentals & Backend Development
+* Express.js Routing & Middleware
+* REST API Development
 * Project-Based Learning
 
-🔗 https://github.com/ashrx19/REACT_PROGRESS
+🔗 React: https://github.com/ashrx19/REACT_PROGRESS
+
+🔗 Node.js: https://github.com/ashrx19/NODE-PROGRESS
+
+🔗 Express.js: https://github.com/ashrx19/EXPRESS-
 
 ---
 
 ### 🧩 Problem Solving
-
-A repository where I regularly solve coding problems, practice algorithms, and document my learning journey by consistently pushing solutions.
 
 * Daily Coding Practice
 * Data Structures & Algorithms
 * JavaScript Problem Solving
 * Pattern & Logic Building
 * Interview Preparation
-* Solution Tracking
 
 🔗 https://github.com/ashrx19/PROBLEM-SOLVING-
 
